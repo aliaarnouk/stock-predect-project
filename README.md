@@ -13,3 +13,6 @@ of the Google colab platform to process our data
 
 #
 عليا نوار عرنوق  //   رغد محمود حكيم
+
+
+#رابط الفيديو الخاص بالشرح:  https://youtu.be/2Y2wH0HIcSU
